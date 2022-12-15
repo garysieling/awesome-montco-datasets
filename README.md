@@ -84,4 +84,4 @@ Wishlist:
 - Info on landlords for areas
 - Info on which depts work w/ NAACP, bucks-mont collaborative etc
 - municipal laws about setbacks, curfews
-- 
+- # of employees in various gruops (county departments, local govt etc)
