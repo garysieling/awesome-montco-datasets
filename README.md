@@ -8,6 +8,10 @@ https://data-montcopa.opendata.arcgis.com/
 
 Montgomery County boundary: https://data-montcopa.opendata.arcgis.com/datasets/montcopa::montgomery-county-boundary/explore?location=40.210380%2C-75.353586%2C11.32
 
+Zip codes: 
+- List: https://www.zillow.com/browse/homes/pa/montgomery-county/
+- Boundaries: https://www.zipdatamaps.com/montgomery-pa-county-zipcodes
+
 Municipal Boundaries: https://data-montcopa.opendata.arcgis.com/datasets/montcopa::montgomery-county-municipal-boundaries/explore?location=40.210380%2C-75.353586%2C11.32
 
 School district boundaries: https://data-montcopa.opendata.arcgis.com/datasets/montcopa::montgomery-county-school-districts-1/explore?location=40.210380%2C-75.353586%2C11.32
