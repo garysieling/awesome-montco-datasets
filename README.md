@@ -75,3 +75,13 @@ Ballot dropboxes: https://data-montcopa.opendata.arcgis.com/datasets/montcopa::m
 
 Court locations: https://data-montcopa.opendata.arcgis.com/datasets/montcopa::montgomery-county-district-courts/explore?location=40.188020%2C-75.349441%2C11.60
 
+
+
+Wishlist:
+- Info on Airbnbs
+- Info on traffic stops / charges / by area / judge / etc
+- Income/wealth info
+- Info on landlords for areas
+- Info on which depts work w/ NAACP, bucks-mont collaborative etc
+- municipal laws about setbacks, curfews
+- 
